@@ -1,4 +1,4 @@
-%% Reliability analisys
+%% Reliability analysys
 %% 
 clear;clc; close all; 
 %%
